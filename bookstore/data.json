@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Python Programming for Beginners",
+    "author": "John Smith",
+    "price": 29.99
+  },
+  {
+    "id": 2,
+    "title": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "price": 24.95
+  },
+  {
+    "id": 3,
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "author": "Robert C. Martin",
+    "price": 39.99
+  },
+  {
+    "id": 4,
+    "title": "The Pragmatic Programmer: Your Journey To Mastery",
+    "author": "David Thomas, Andrew Hunt",
+    "price": 42.5
+  },
+  {
+    "id": 5,
+    "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+    "price": 49.99
+  },
+  {
+    "id": 6,
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+    "price": 59.95
+  },
+  {
+    "id": 7,
+    "title": "Cracking the Coding Interview: 189 Programming Questions and Solutions",
+    "author": "Gayle Laakmann McDowell",
+    "price": 35.0
+  },
+  {
+    "id": 8,
+    "title": "Deep Learning",
+    "author": "Ian Goodfellow, Yoshua Bengio, Aaron Courville",
+    "price": 55.0
+  },
+  {
+    "id": 9,
+    "title": "The Mythical Man-Month: Essays on Software Engineering",
+    "author": "Frederick P. Brooks Jr.",
+    "price": 29.95
+  },
+  {
+    "id": 10,
+    "title": "Refactoring: Improving the Design of Existing Code",
+    "author": "Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts",
+    "price": 44.99
+  }
+]
